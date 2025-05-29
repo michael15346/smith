@@ -1,0 +1,13 @@
+bit1 = int
+bit2 = int
+bit4 = int
+bit6 = int
+bit13 = int
+bit15 = int
+bit20 = int
+byte1 = int
+byte2 = int
+byte4 = int
+byte6 = int
+byte8 = int
+byte16 = int
